@@ -1,0 +1,1863 @@
+header: 
+  seq: 13529
+  stamp: 
+    secs: 1455222743
+    nsecs: 412264510
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13530
+  stamp: 
+    secs: 1455222743
+    nsecs: 438183208
+  frame_id: "vectornav"
+temperature: 13.4899997711
+variance: 0.0
+---
+header: 
+  seq: 13531
+  stamp: 
+    secs: 1455222743
+    nsecs: 462545343
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13532
+  stamp: 
+    secs: 1455222743
+    nsecs: 486034562
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13533
+  stamp: 
+    secs: 1455222743
+    nsecs: 513102062
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13534
+  stamp: 
+    secs: 1455222743
+    nsecs: 537721229
+  frame_id: "vectornav"
+temperature: 13.4549999237
+variance: 0.0
+---
+header: 
+  seq: 13535
+  stamp: 
+    secs: 1455222743
+    nsecs: 561090239
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13536
+  stamp: 
+    secs: 1455222743
+    nsecs: 587034302
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13537
+  stamp: 
+    secs: 1455222743
+    nsecs: 612896854
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13538
+  stamp: 
+    secs: 1455222743
+    nsecs: 637616802
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13539
+  stamp: 
+    secs: 1455222743
+    nsecs: 660851906
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13540
+  stamp: 
+    secs: 1455222743
+    nsecs: 686746020
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13541
+  stamp: 
+    secs: 1455222743
+    nsecs: 712603416
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13542
+  stamp: 
+    secs: 1455222743
+    nsecs: 737257270
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13543
+  stamp: 
+    secs: 1455222743
+    nsecs: 761836489
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13544
+  stamp: 
+    secs: 1455222743
+    nsecs: 787724562
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13545
+  stamp: 
+    secs: 1455222743
+    nsecs: 812457479
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13546
+  stamp: 
+    secs: 1455222743
+    nsecs: 837126177
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13547
+  stamp: 
+    secs: 1455222743
+    nsecs: 861624302
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13548
+  stamp: 
+    secs: 1455222743
+    nsecs: 887479145
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13549
+  stamp: 
+    secs: 1455222743
+    nsecs: 912097166
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13550
+  stamp: 
+    secs: 1455222743
+    nsecs: 936774093
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13551
+  stamp: 
+    secs: 1455222743
+    nsecs: 962605916
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13552
+  stamp: 
+    secs: 1455222743
+    nsecs: 987228312
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13553
+  stamp: 
+    secs: 1455222744
+    nsecs:  11870551
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13554
+  stamp: 
+    secs: 1455222744
+    nsecs:  36637687
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13555
+  stamp: 
+    secs: 1455222744
+    nsecs:  62328416
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13556
+  stamp: 
+    secs: 1455222744
+    nsecs:  86967374
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13557
+  stamp: 
+    secs: 1455222744
+    nsecs: 111752166
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13558
+  stamp: 
+    secs: 1455222744
+    nsecs: 136365760
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13559
+  stamp: 
+    secs: 1455222744
+    nsecs: 162190447
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13560
+  stamp: 
+    secs: 1455222744
+    nsecs: 186873624
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13561
+  stamp: 
+    secs: 1455222744
+    nsecs: 211492218
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13562
+  stamp: 
+    secs: 1455222744
+    nsecs: 237482010
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13563
+  stamp: 
+    secs: 1455222744
+    nsecs: 263199458
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13564
+  stamp: 
+    secs: 1455222744
+    nsecs: 288775239
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13565
+  stamp: 
+    secs: 1455222744
+    nsecs: 312096333
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13566
+  stamp: 
+    secs: 1455222744
+    nsecs: 337969822
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13567
+  stamp: 
+    secs: 1455222744
+    nsecs: 363855916
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13568
+  stamp: 
+    secs: 1455222744
+    nsecs: 388745655
+  frame_id: "vectornav"
+temperature: 13.4499998093
+variance: 0.0
+---
+header: 
+  seq: 13569
+  stamp: 
+    secs: 1455222744
+    nsecs: 411995812
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13570
+  stamp: 
+    secs: 1455222744
+    nsecs: 438040135
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13571
+  stamp: 
+    secs: 1455222744
+    nsecs: 464098103
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13572
+  stamp: 
+    secs: 1455222744
+    nsecs: 488824978
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13573
+  stamp: 
+    secs: 1455222744
+    nsecs: 513226905
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13574
+  stamp: 
+    secs: 1455222744
+    nsecs: 537880968
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13575
+  stamp: 
+    secs: 1455222744
+    nsecs: 563776957
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13576
+  stamp: 
+    secs: 1455222744
+    nsecs: 588441957
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13577
+  stamp: 
+    secs: 1455222744
+    nsecs: 611827687
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13578
+  stamp: 
+    secs: 1455222744
+    nsecs: 639225030
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13579
+  stamp: 
+    secs: 1455222744
+    nsecs: 663501957
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13580
+  stamp: 
+    secs: 1455222744
+    nsecs: 687888624
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13581
+  stamp: 
+    secs: 1455222744
+    nsecs: 712574770
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13582
+  stamp: 
+    secs: 1455222744
+    nsecs: 738400030
+  frame_id: "vectornav"
+temperature: 13.4599990845
+variance: 0.0
+---
+header: 
+  seq: 13583
+  stamp: 
+    secs: 1455222744
+    nsecs: 762999822
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13584
+  stamp: 
+    secs: 1455222744
+    nsecs: 787621957
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13585
+  stamp: 
+    secs: 1455222744
+    nsecs: 812334353
+  frame_id: "vectornav"
+temperature: 13.4674987793
+variance: 0.0
+---
+header: 
+  seq: 13586
+  stamp: 
+    secs: 1455222744
+    nsecs: 838407478
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13587
+  stamp: 
+    secs: 1455222744
+    nsecs: 862961489
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13588
+  stamp: 
+    secs: 1455222744
+    nsecs: 887540082
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13589
+  stamp: 
+    secs: 1455222744
+    nsecs: 912201489
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13590
+  stamp: 
+    secs: 1455222744
+    nsecs: 938051228
+  frame_id: "vectornav"
+temperature: 13.4899997711
+variance: 0.0
+---
+header: 
+  seq: 13591
+  stamp: 
+    secs: 1455222744
+    nsecs: 962729562
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13592
+  stamp: 
+    secs: 1455222744
+    nsecs: 987307426
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13593
+  stamp: 
+    secs: 1455222745
+    nsecs:  13207582
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13594
+  stamp: 
+    secs: 1455222745
+    nsecs:  38106489
+  frame_id: "vectornav"
+temperature: 13.4599990845
+variance: 0.0
+---
+header: 
+  seq: 13595
+  stamp: 
+    secs: 1455222745
+    nsecs:  62610916
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13596
+  stamp: 
+    secs: 1455222745
+    nsecs:  87270968
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13597
+  stamp: 
+    secs: 1455222745
+    nsecs: 113181332
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13598
+  stamp: 
+    secs: 1455222745
+    nsecs: 139175759
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13599
+  stamp: 
+    secs: 1455222745
+    nsecs: 163666905
+  frame_id: "vectornav"
+temperature: 13.4675006866
+variance: 0.0
+---
+header: 
+  seq: 13600
+  stamp: 
+    secs: 1455222745
+    nsecs: 187099353
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13601
+  stamp: 
+    secs: 1455222745
+    nsecs: 214269770
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13602
+  stamp: 
+    secs: 1455222745
+    nsecs: 238784770
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13603
+  stamp: 
+    secs: 1455222745
+    nsecs: 262019978
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13604
+  stamp: 
+    secs: 1455222745
+    nsecs: 287993103
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13605
+  stamp: 
+    secs: 1455222745
+    nsecs: 313763780
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13606
+  stamp: 
+    secs: 1455222745
+    nsecs: 338411853
+  frame_id: "vectornav"
+temperature: 13.4675006866
+variance: 0.0
+---
+header: 
+  seq: 13607
+  stamp: 
+    secs: 1455222745
+    nsecs: 362085238
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13608
+  stamp: 
+    secs: 1455222745
+    nsecs: 389059301
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13609
+  stamp: 
+    secs: 1455222745
+    nsecs: 413533728
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13610
+  stamp: 
+    secs: 1455222745
+    nsecs: 438470551
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13611
+  stamp: 
+    secs: 1455222745
+    nsecs: 462996801
+  frame_id: "vectornav"
+temperature: 13.4899997711
+variance: 0.0
+---
+header: 
+  seq: 13612
+  stamp: 
+    secs: 1455222745
+    nsecs: 488983988
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13613
+  stamp: 
+    secs: 1455222745
+    nsecs: 513453103
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13614
+  stamp: 
+    secs: 1455222745
+    nsecs: 538058468
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13615
+  stamp: 
+    secs: 1455222745
+    nsecs: 562710290
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13616
+  stamp: 
+    secs: 1455222745
+    nsecs: 588495238
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13617
+  stamp: 
+    secs: 1455222745
+    nsecs: 613035238
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13618
+  stamp: 
+    secs: 1455222745
+    nsecs: 637891488
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13619
+  stamp: 
+    secs: 1455222745
+    nsecs: 662431801
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13620
+  stamp: 
+    secs: 1455222745
+    nsecs: 688361176
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13621
+  stamp: 
+    secs: 1455222745
+    nsecs: 712920082
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13622
+  stamp: 
+    secs: 1455222745
+    nsecs: 737555342
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13623
+  stamp: 
+    secs: 1455222745
+    nsecs: 763385395
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13624
+  stamp: 
+    secs: 1455222745
+    nsecs: 788070707
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13625
+  stamp: 
+    secs: 1455222745
+    nsecs: 812701436
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13626
+  stamp: 
+    secs: 1455222745
+    nsecs: 837292113
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13627
+  stamp: 
+    secs: 1455222745
+    nsecs: 863278936
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13628
+  stamp: 
+    secs: 1455222745
+    nsecs: 888058936
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13629
+  stamp: 
+    secs: 1455222745
+    nsecs: 912399613
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13630
+  stamp: 
+    secs: 1455222745
+    nsecs: 938447686
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13631
+  stamp: 
+    secs: 1455222745
+    nsecs: 963088832
+  frame_id: "vectornav"
+temperature: 13.4899997711
+variance: 0.0
+---
+header: 
+  seq: 13632
+  stamp: 
+    secs: 1455222745
+    nsecs: 987675759
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13633
+  stamp: 
+    secs: 1455222746
+    nsecs:  13856957
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13634
+  stamp: 
+    secs: 1455222746
+    nsecs:  38348884
+  frame_id: "vectornav"
+temperature: 13.4674987793
+variance: 0.0
+---
+header: 
+  seq: 13635
+  stamp: 
+    secs: 1455222746
+    nsecs:  62951436
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13636
+  stamp: 
+    secs: 1455222746
+    nsecs:  88926332
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13637
+  stamp: 
+    secs: 1455222746
+    nsecs: 113434457
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13638
+  stamp: 
+    secs: 1455222746
+    nsecs: 136815290
+  frame_id: "vectornav"
+temperature: 13.4675006866
+variance: 0.0
+---
+header: 
+  seq: 13639
+  stamp: 
+    secs: 1455222746
+    nsecs: 163871853
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13640
+  stamp: 
+    secs: 1455222746
+    nsecs: 188596332
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13641
+  stamp: 
+    secs: 1455222746
+    nsecs: 213148936
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13642
+  stamp: 
+    secs: 1455222746
+    nsecs: 237829249
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13643
+  stamp: 
+    secs: 1455222746
+    nsecs: 263667269
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13644
+  stamp: 
+    secs: 1455222746
+    nsecs: 288171176
+  frame_id: "vectornav"
+temperature: 13.4899997711
+variance: 0.0
+---
+header: 
+  seq: 13645
+  stamp: 
+    secs: 1455222746
+    nsecs: 311526853
+  frame_id: "vectornav"
+temperature: 13.4674987793
+variance: 0.0
+---
+header: 
+  seq: 13646
+  stamp: 
+    secs: 1455222746
+    nsecs: 337407373
+  frame_id: "vectornav"
+temperature: 13.4899997711
+variance: 0.0
+---
+header: 
+  seq: 13647
+  stamp: 
+    secs: 1455222746
+    nsecs: 363331644
+  frame_id: "vectornav"
+temperature: 13.4675006866
+variance: 0.0
+---
+header: 
+  seq: 13648
+  stamp: 
+    secs: 1455222746
+    nsecs: 388029144
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13649
+  stamp: 
+    secs: 1455222746
+    nsecs: 412574769
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13650
+  stamp: 
+    secs: 1455222746
+    nsecs: 438424717
+  frame_id: "vectornav"
+temperature: 13.4675006866
+variance: 0.0
+---
+header: 
+  seq: 13651
+  stamp: 
+    secs: 1455222746
+    nsecs: 463021592
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13652
+  stamp: 
+    secs: 1455222746
+    nsecs: 487830238
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13653
+  stamp: 
+    secs: 1455222746
+    nsecs: 512606696
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13654
+  stamp: 
+    secs: 1455222746
+    nsecs: 538328050
+  frame_id: "vectornav"
+temperature: 13.4899997711
+variance: 0.0
+---
+header: 
+  seq: 13655
+  stamp: 
+    secs: 1455222746
+    nsecs: 562932582
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13656
+  stamp: 
+    secs: 1455222746
+    nsecs: 587578311
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13657
+  stamp: 
+    secs: 1455222746
+    nsecs: 612156175
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13658
+  stamp: 
+    secs: 1455222746
+    nsecs: 637928884
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13659
+  stamp: 
+    secs: 1455222746
+    nsecs: 663774665
+  frame_id: "vectornav"
+temperature: 13.4675006866
+variance: 0.0
+---
+header: 
+  seq: 13660
+  stamp: 
+    secs: 1455222746
+    nsecs: 688404353
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13661
+  stamp: 
+    secs: 1455222746
+    nsecs: 713005811
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13662
+  stamp: 
+    secs: 1455222746
+    nsecs: 737795186
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13663
+  stamp: 
+    secs: 1455222746
+    nsecs: 763791696
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13664
+  stamp: 
+    secs: 1455222746
+    nsecs: 787198363
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13665
+  stamp: 
+    secs: 1455222746
+    nsecs: 813061019
+  frame_id: "vectornav"
+temperature: 13.4674987793
+variance: 0.0
+---
+header: 
+  seq: 13666
+  stamp: 
+    secs: 1455222746
+    nsecs: 839019196
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13667
+  stamp: 
+    secs: 1455222746
+    nsecs: 863642061
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13668
+  stamp: 
+    secs: 1455222746
+    nsecs: 887112165
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13669
+  stamp: 
+    secs: 1455222746
+    nsecs: 913879769
+  frame_id: "vectornav"
+temperature: 13.4674987793
+variance: 0.0
+---
+header: 
+  seq: 13670
+  stamp: 
+    secs: 1455222746
+    nsecs: 938603727
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13671
+  stamp: 
+    secs: 1455222746
+    nsecs: 963159613
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13672
+  stamp: 
+    secs: 1455222746
+    nsecs: 987781540
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13673
+  stamp: 
+    secs: 1455222747
+    nsecs:  13801696
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13674
+  stamp: 
+    secs: 1455222747
+    nsecs:  38340134
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13675
+  stamp: 
+    secs: 1455222747
+    nsecs:  61768154
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13676
+  stamp: 
+    secs: 1455222747
+    nsecs:  87544977
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13677
+  stamp: 
+    secs: 1455222747
+    nsecs: 113412113
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13678
+  stamp: 
+    secs: 1455222747
+    nsecs: 138047425
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13679
+  stamp: 
+    secs: 1455222747
+    nsecs: 162655446
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13680
+  stamp: 
+    secs: 1455222747
+    nsecs: 188600186
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13681
+  stamp: 
+    secs: 1455222747
+    nsecs: 213170238
+  frame_id: "vectornav"
+temperature: 13.4674987793
+variance: 0.0
+---
+header: 
+  seq: 13682
+  stamp: 
+    secs: 1455222747
+    nsecs: 238117321
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13683
+  stamp: 
+    secs: 1455222747
+    nsecs: 262705446
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13684
+  stamp: 
+    secs: 1455222747
+    nsecs: 288442738
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13685
+  stamp: 
+    secs: 1455222747
+    nsecs: 313064613
+  frame_id: "vectornav"
+temperature: 13.4674987793
+variance: 0.0
+---
+header: 
+  seq: 13686
+  stamp: 
+    secs: 1455222747
+    nsecs: 337722425
+  frame_id: "vectornav"
+temperature: 13.4599990845
+variance: 0.0
+---
+header: 
+  seq: 13687
+  stamp: 
+    secs: 1455222747
+    nsecs: 363741436
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13688
+  stamp: 
+    secs: 1455222747
+    nsecs: 388747790
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13689
+  stamp: 
+    secs: 1455222747
+    nsecs: 413154665
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13690
+  stamp: 
+    secs: 1455222747
+    nsecs: 437596175
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13691
+  stamp: 
+    secs: 1455222747
+    nsecs: 463291748
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13692
+  stamp: 
+    secs: 1455222747
+    nsecs: 487788779
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13693
+  stamp: 
+    secs: 1455222747
+    nsecs: 513641696
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13694
+  stamp: 
+    secs: 1455222747
+    nsecs: 537033519
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13695
+  stamp: 
+    secs: 1455222747
+    nsecs: 562937894
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13696
+  stamp: 
+    secs: 1455222747
+    nsecs: 590134821
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13697
+  stamp: 
+    secs: 1455222747
+    nsecs: 613548519
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13698
+  stamp: 
+    secs: 1455222747
+    nsecs: 637229144
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13699
+  stamp: 
+    secs: 1455222747
+    nsecs: 664163571
+  frame_id: "vectornav"
+temperature: 13.4675006866
+variance: 0.0
+---
+header: 
+  seq: 13700
+  stamp: 
+    secs: 1455222747
+    nsecs: 689288154
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13701
+  stamp: 
+    secs: 1455222747
+    nsecs: 713221800
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13702
+  stamp: 
+    secs: 1455222747
+    nsecs: 738199352
+  frame_id: "vectornav"
+temperature: 13.4599990845
+variance: 0.0
+---
+header: 
+  seq: 13703
+  stamp: 
+    secs: 1455222747
+    nsecs: 764326644
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13704
+  stamp: 
+    secs: 1455222747
+    nsecs: 788820863
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13705
+  stamp: 
+    secs: 1455222747
+    nsecs: 811961019
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13706
+  stamp: 
+    secs: 1455222747
+    nsecs: 838054873
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13707
+  stamp: 
+    secs: 1455222747
+    nsecs: 863698154
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13708
+  stamp: 
+    secs: 1455222747
+    nsecs: 888858050
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13709
+  stamp: 
+    secs: 1455222747
+    nsecs: 911823310
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13710
+  stamp: 
+    secs: 1455222747
+    nsecs: 937669717
+  frame_id: "vectornav"
+temperature: 13.4599990845
+variance: 0.0
+---
+header: 
+  seq: 13711
+  stamp: 
+    secs: 1455222747
+    nsecs: 963414717
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13712
+  stamp: 
+    secs: 1455222747
+    nsecs: 988346748
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13713
+  stamp: 
+    secs: 1455222748
+    nsecs:  12815550
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13714
+  stamp: 
+    secs: 1455222748
+    nsecs:  37899456
+  frame_id: "vectornav"
+temperature: 13.4599990845
+variance: 0.0
+---
+header: 
+  seq: 13715
+  stamp: 
+    secs: 1455222748
+    nsecs:  63183414
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13716
+  stamp: 
+    secs: 1455222748
+    nsecs:  88028779
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13717
+  stamp: 
+    secs: 1455222748
+    nsecs: 112448467
+  frame_id: "vectornav"
+temperature: 13.4674987793
+variance: 0.0
+---
+header: 
+  seq: 13718
+  stamp: 
+    secs: 1455222748
+    nsecs: 138668154
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13719
+  stamp: 
+    secs: 1455222748
+    nsecs: 163073258
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13720
+  stamp: 
+    secs: 1455222748
+    nsecs: 187830237
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13721
+  stamp: 
+    secs: 1455222748
+    nsecs: 212303206
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13722
+  stamp: 
+    secs: 1455222748
+    nsecs: 238051956
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13723
+  stamp: 
+    secs: 1455222748
+    nsecs: 262707373
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13724
+  stamp: 
+    secs: 1455222748
+    nsecs: 287454039
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13725
+  stamp: 
+    secs: 1455222748
+    nsecs: 313394091
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13726
+  stamp: 
+    secs: 1455222748
+    nsecs: 337976644
+  frame_id: "vectornav"
+temperature: 13.4599990845
+variance: 0.0
+---
+header: 
+  seq: 13727
+  stamp: 
+    secs: 1455222748
+    nsecs: 362463831
+  frame_id: "vectornav"
+temperature: 13.4600000381
+variance: 0.0
+---
+header: 
+  seq: 13728
+  stamp: 
+    secs: 1455222748
+    nsecs: 387084352
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13729
+  stamp: 
+    secs: 1455222748
+    nsecs: 412917425
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13730
+  stamp: 
+    secs: 1455222748
+    nsecs: 438931904
+  frame_id: "vectornav"
+temperature: 13.4899997711
+variance: 0.0
+---
+header: 
+  seq: 13731
+  stamp: 
+    secs: 1455222748
+    nsecs: 464027946
+  frame_id: "vectornav"
+temperature: 13.4675006866
+variance: 0.0
+---
+header: 
+  seq: 13732
+  stamp: 
+    secs: 1455222748
+    nsecs: 488686383
+  frame_id: "vectornav"
+temperature: 13.4750003815
+variance: 0.0
+---
+header: 
+  seq: 13733
+  stamp: 
+    secs: 1455222748
+    nsecs: 513552477
+  frame_id: "vectornav"
+temperature: 13.4825000763
+variance: 0.0
+---
+header: 
+  seq: 13734
+  stamp: 
+    secs: 1455222748
+    nsecs: 539007216
+  frame_id: "vectornav"
+temperature: 13.4899997711
+variance: 0.0
+---
+header: 
+  seq: 13735
+  stamp: 
+    secs: 1455222748
+    nsecs: 562596227
+  frame_id: "vectornav"
+temperature: 13.4675006866
+variance: 0.0
+---
