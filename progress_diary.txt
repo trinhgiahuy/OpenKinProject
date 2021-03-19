@@ -1,0 +1,161 @@
+sh cmd
+https://www.computerhope.com/unix/ush.htm#:~:text=Linux%20sh%20command.%20On%20Unix-like%20operating%20systems,%20sh,Unix%20and%20many%20Unix-like%20operating%20systems,%20including%20Linux.
+
+
+make cmd
+https://www.computerhope.com/unix/umake.htm
+
+swapon swapoff
+https://www.computerhope.com/unix/swapon.htm
+
+
+fallocate
+https://www.landoflinux.com/linux_fallocate_command.html
+
+Vectornav ROS Driver
+sensor_msg interface for VN-100 VN-200 VN-300
+earthmine/vectornav
+
+
+https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-07-05/
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=193999
+
+IN PROGRRESS: 10/2
+https://wiki.ros.org/ROS/Introduction
+
+https://wiki.ros.org/kinetic#Installation
+
+https://wiki.ros.org/kinetic/Installation/Source
+
+
+
+https://wiki.ros.org/kinetic/Installation/Ubuntu#Installation.2BAC8-Ubuntu.2BAC8-Sources.Setup_your_sources.list
+
+
+https://www.ros.org/reps/rep-0003.html
+
+What is ROS/Introduction
+https://roboticsbackend.com/what-is-ros/
+
+https://docs.ros.org/en/independent/api/rosinstall/html/roslocate.html
+
+http://wiki.ros.org/tf2
+
+
+In progress 18.02
+Eigen for pybind11
+https://pybind11.readthedocs.io/en/stable/advanced/cast/eigen.html
+
+
+
+
+ROS 
+
+****Install from source
+https://wiki.ros.org/kinetic/Installation/Source
+
+Command start to install ROS 
+
+--Check OS: 
+https://draculaservers.com/tutorials/check-linux-version-kernel/#:~:text=To%20find%20the%20Linux%20operating%20system%E2%80%99s%20name,%20version,details:%20cat%20/etc/os-release%20cat%20/etc/issue%20lsb_release%20-a%20hostnamectl
+
+Upstream package
+https://wiki.ros.org/UpstreamPackages
+
+
+$cat /etc/os-release
+
+sudo fallocate -l 2G /var/swap2
+sudo chmod 600 /var/swap2
+
+cd /var 
+sudo mkswap ./swap2
+sudo swapon ./swap2
+
+
+catkin
+https://wiki.ros.org/catkin
+
+catkin workspace
+
+http://wiki.ros.org/catkin/workspaces
+
+wstool
+http://wiki.ros.org/wstool
+
+kineticMigration
+https://wiki.ros.org/kinetic/Migration
+
+wget cmd
+https://www.geeksforgeeks.org/wget-command-in-linux-unix/#:~:text=%20Wget%20command%20in%20Linux/Unix%20%201%20GNU,versions%20of%20remote%20web%20sites,%20fully...%20More
+
+visudo
+https://www.unixtutorial.org/how-to-use-visudo/#:~:text=The%20visudo%20command%20is%20a%20safe%20and%20secure,a%20good%20idea%20to%20take%20some%20precautions
+
+joan2937
+https://github.com/joan2937/pigpio
+
+
+
+In progress 22.2
+
+$ sudo apt-get install libeigen3
+
+$ dpkg -s libeigen3-dev | grep "Version"
+Version: 3.2.2-3
+
+
+#Check OS info
+$ cat /etc/os-release
+
+
+File system hierachy
+https://www.ros.org/reps/rep-0122.html
+
+Orocos_kinetic_dynamics install instruction
+https://github.com/orocos/orocos_kinematics_dynamics/blob/master/orocos_kdl/INSTALL.md
+
+
+All deb jessie package avai
+https://packages.debian.org/jessie/libdevel/
+
+Package ligeigen3-dev from Deb Jessie
+https://packages.debian.org/jessie/libdevel/libeigen3-dev
+
+Change version of Eigen
+https://stackoverflow.com/questions/49196806/how-to-change-version-of-eigen
+
+Skip eigen test
+https://github.com/pybind/pybind11/issues/1117
+
+Install eigen 3.3 in Ubuntu 14.04
+https://askubuntu.com/questions/860207/how-to-install-eigen-3-3-in-ubuntu-14-04
+https://askubuntu.com/questions/491067/eigen-installation-seemed-to-work-but-i-still-cant-make-eigen-work
+
+https://answers.ros.org/question/9201/how-do-i-install-a-missing-ros-package/
+
+
+-----------In progress 19.03
+https://askubuntu.com/questions/860207/how-to-install-eigen-3-3-in-ubuntu-14-04
+
+Option 1 //FAIL
+remove your current /usr/local/include/eigen3, download a more recent version of eigen unzip it, rename the new folder eigen3 and put it in /usr/local/include/
+copied Eigen and Unsupported in /usr/local/include/eigen3 to ur/include/eigen3
+
+Option 2 : Down from this page and github link
+https://iq.opengenus.org/install-eigen-library-from-source/
+
+eigen 3.3.90
+
+
+Check verion of Eigen on Debian
+cat /usr/include/eigen3/Eigen/src/Core/util/Macros.h 
+
+
+ROSberryPi
+http://wiki.ros.org/ROSberryPi
+
+ubiquiry robotic download 
+https://downloads.ubiquityrobotics.com/pi.html
+
