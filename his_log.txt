@@ -149,3 +149,14 @@ This is log file for command history
   148  nano his_log
   149  nano his_log.txt
   150  history >> his_log.txt 
+  
+pi@raspberrypi:/usr $ sudo find /usr -name Eigen -type f
+/usr/local/include/eigen3/Eigen/Eigen
+/usr/local/include/eigen3/build/include/eigen3/Eigen/Eigen
+/usr/include/eigen3/Eigen/Eigen
+
+
+pi@raspberrypi:/usr $ sudo find /usr -name Core -type f
+/usr/local/include/eigen3/Eigen/Core
+/usr/local/include/eigen3/build/include/eigen3/Eigen/Core
+/usr/include/eigen3/Eigen/Core
