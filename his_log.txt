@@ -1,0 +1,151 @@
+This is log file for command history 
+    1  sudo fallocated -l 2G /var/swap2
+    2  sudo apt-get update
+    3  sudo apt-get upgrade
+    4  sudo fallocate -l 2G /var/swap2
+    5  sudo chmod 600 /var/swap2 
+    6  sudo swapon /var/swap2
+    7  cd /var/
+    8  sudo mkswap ./swap2
+    9  sudo swapon ./swap2
+   10  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+   11  sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 0xB01FA116
+   12  sudp apt-get update
+   13  sudo apt-get update
+   14  cd 
+   15  sudp apt-get update
+   16  sudo apt-get update
+   17  sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+   18  sudo apt-get update
+   19  sudo apt-get install python-rosdep python-rosinstall-generator python-wstool python-rosinstall build-essential git libgps-dev i2c-tools libi2c-dev
+   20  sudo rosdep init
+   21  rosdep update
+   22  cd
+   23  mkdir ros_catkin_ws
+   24  cd ros_catkin_ws/
+   25  rosinstall_generator ros_comm --rosdistro kinetic --deps --wet-only --tar > kinetic-ros_comm-wet.rosinstall
+   26  roslocate info common_msgs --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   27  roslocate info tf --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   28  roslocate info tf2 --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   29  roslocate info diagnostic_updater --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   30  roslocate info actionlib --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   31  roslocate info python_orocos_kdl --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   32  roslocate info bondcpp --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   33  nano kinetic-ros_comm-wet.rosinstall 
+   34  roslocate info pluginlib --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   35  roslocate info angles --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   36  roslocate info class_loader --distro=kinetic >> kinetic-ros_comm-wet.rosinstall 
+   37  wstool init -j8 src kinetic-ros_comm-wet.rosinstall
+   38  wstool init -j4 src kinetic-ros_comm-wet.rosinstall
+   39  nano kinetic-ros_comm-wet.rosinstall 
+   40  wstool init -j4 src kinetic-ros_comm-wet.rosinstall
+   41  vim kinetic-ros_comm-wet.rosinstall 
+   42  nano kinetic-ros_comm-wet.rosinstall 
+   43  wstool init -j4 src kinetic-ros_comm-wet.rosinstall
+   44  cd /usr/share/
+   45  ls
+   46  cd 
+   47  cd ros_catkin_ws/
+   48  ls
+   49  rosdep install --from-paths src --ignore-src --rosdistro kinetic -y
+   50  sudo mkdir -p /opt/ros/kinetic
+   51  sudo chmod -R 777 /opt/ros/
+   52  sudo chown -R pi:pi /opt/ros/
+   53  ./src/catkin/bin/catkin_make_isolated --install --install-space /opt/ros/kinetic -DCMAKE_BUILD_TYPE=Release
+   54  cd /usr/share/
+   55  ls
+   56  sudo cp cmake-3.0/Modules/FindEigen3.cmake cmake-3.6/Modules/
+   57  ./src/catkin/bin/catkin_make_isolated --install --install-space /opt/ros/kinetic -DCMAKE_BUILD_TYPE=Release
+   58  cd 
+   59  cd ros_catkin_ws/
+   60  ./src/catkin/bin/catkin_make_isolated --install --install-space /opt/ros/kinetic -DCMAKE_BUILD_TYPE=Release
+   61  sudo cp /usr/share/cmake-3.0/Modules/FindEigen3.cmake /usr/share/cmake-3.6/Modules/
+   62  sudo reboot now
+   63  EIGEN_WORLD_VERSION
+   64  sudo dpkg -s libeigen3-dev | grep "version"
+   65  sudo dpkg -s libeigen3-dev | grep "Version"
+   66  whereis eigen
+   67  whereis libeigen3-dev
+   68  find eigen
+   69  find libeigen3-dev
+   70  find . libeigen3-dev
+   71  sudo shutdown -h now
+   72  mkdir OpenKin
+   73  cd OpenKin/
+   74  git clone https://github.com/trinhgiahuy/OpenKinProject.git
+   75  ls
+   76  cd ..
+   77  ls
+   78  cp -r ros_catkin_ws/ OpenKin/
+   79  cd OpenKin/
+   80  ls
+   81  rm ros_catkin_ws/
+   82  rm -r ros_catkin_ws/
+   83  cd OpenKin/OpenKinProject/
+   84  ls
+   85  git status
+   86  git add ros_catkin_ws/
+   87  git commit -m "Save ros_catwin workspace"
+   88  git config --global user.name "Huy Trinh"
+   89  git config --global user.email "giahuy050201@gmail.com"
+   90  git commit -m "Save ros_catwin workspace"
+   91  git status
+   92  git log --oneline
+   93  git push 
+   94  git log --oneline
+   95  git push
+   96  git pull
+   97  git config --global push.default matching
+   98  git push
+   99  ssh-keygen -t ed25519 "giahuy050201@gmail.com"
+  100  ssh-keygen -t ed25519 -C "giahuy050201@gmail.com"
+  101  eval "(ssh-agent -s)"
+  102  ssh-add ./.ssh/id_ed25519
+  103  ls -la
+  104  cd .ssh/
+  105  ls
+  106  nano id_ed25519.pub 
+  107  nano id_ed25519
+  108  nano id_ed25519.pub 
+  109  sudo apt-get install xclib
+  110  sudo apt-get install xclip
+  111  xclip -selection clipboard < ./id_ed25519.pub 
+  112  git clone 
+  113  git clone git@github.com:trinhgiahuy/OpenKinProject.git
+  114  ls
+  115  sudo rm -r OpenKinProject/
+  116  cd 
+  117  cd OpenKin/
+  118  ls
+  119  rm -r OpenKinProject/
+  120  ls
+  121  git clone git@github.com:trinhgiahuy/OpenKinProject.git
+  122* git 
+  123  cd OpenKinProject/
+  124  git status
+  125  git add log_file 
+  126  git commit -m "Add log file"
+  127  git push
+  128  cd 
+  129  cd ros_catkin_ws/
+  130  ls
+  131  cd ..
+  132  cp -r ros_catkin_ws/ OpenKin/OpenKinProject/
+  133  cd OpenKin/OpenKinProject/
+  134  ls
+  135  git status
+  136  git add ros_catkin_ws/
+  137  git commit -m "Save ros_catwin workspace"
+  138  git status
+  139  git log --oneline
+  140  git push
+  141  cp /usr/include/eigen3/ ~/OpenKin/OpenKinProject/
+  142  sudo cp -r /usr/include/eigen3/ ~/OpenKin/OpenKinProject/
+  143  git status
+  144  git add eigen3/
+  145  git commit -m "Original eigen3 in /usr/include/eigen3/"
+  146  git push
+  147  cd 
+  148  nano his_log
+  149  nano his_log.txt
+  150  history >> his_log.txt 
