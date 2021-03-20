@@ -153,9 +153,19 @@ Check verion of Eigen on Debian
 cat /usr/include/eigen3/Eigen/src/Core/util/Macros.h 
 
 
-ROSberryPi
+*********************************************************ROSberryPi
 http://wiki.ros.org/ROSberryPi
+
+=>******************************************************Installing ROS Kinetic on the Raspberry Pi
+http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Kinetic%20on%20the%20Raspberry%20Pi
 
 ubiquiry robotic download 
 https://downloads.ubiquityrobotics.com/pi.html
+
+Eigen3 cmake module not found  						--There is a comment that  Compiling ROS in a Raspberry pi 3 I was able to workaround the Eigen3 error by adding "-DCMAKE_MODULE_PATH=/usr/share/cmake-3.0/Modules" to the catkin_make_isolated command.
+									It's still running but hopefully that won't cause any other errors.
+https://github.com/ros-perception/perception_pcl/issues/106
+
+
+
 
