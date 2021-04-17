@@ -1,0 +1,127 @@
+    1  ipconfig
+    2  ifconfig
+    3  sudo apt-get update
+    4  sudo apt-get upgrade
+    5  sudo shutdown -h now
+    6  vivaldi
+    7  sudo ntpdate time.nist.gov
+    8  date
+    9  sudo date -s "$(wget -qSO --max-redirect=0 google.com 2>&1 | grep Date: | cut -d' ' -f5-8)Z"
+   10  sudo timedatectl set-ntp off
+   11  sudo timedatectl set-ntp on
+   12  sudo ntpdate time.nist.gov
+   13  sudo timedatectl set-ntp 0
+   14  sudo date --set="2021-03-22 01:32:14"
+   15  sudo hwclock --systohc 
+   16  cd .ssh/
+   17  xclip -selection clipboard < ./id_ed25519.pub 
+   18  cd 
+   19  cd Openkin/
+   20  git clone git@github.com:trinhgiahuy/OpenKinProject.git
+   21  cd OpenKinProject/
+   22  git status
+   23  git add Ubuntu\ Xenial\ 1/
+   24  git commit -m "Initialize the Ubuntu Xenial 1 folder"
+   25  git config --global user.name "Trinh Huy"
+   26  git config --global user.email "giahuy050201@gmail.com"
+   27  git commit -m "Initialize the Ubuntu Xenial 1 folder"
+   28  git push
+   29  cd
+   30  sudo apt-get install git
+   31  sudo apt-get install python-rosinstall
+   32  sudo apt-get install ros-kinetic-diagnostic-updater
+   33  sudo apt-get install ros-kinetic-tf
+   34  sudo apt-get install libgps=dev
+   35  sudo apt-get install libgps-dev
+   36  sudo apt-get install i2c-tools 
+   37  sudo apt-get install libi2c-dev
+   38  sudo apt-get install python-serial
+   39  sudo apt-get install ntpdate
+   40  cd catkin_ws/
+   41  ls
+   42  cd src/
+   43  catkin_init_workspace 
+   44  cd ..
+   45  catkin_make
+   46  ls
+   47  source devel/setup.bash 
+   48  cd
+   49  ls
+   50  git clone https://github.com/ros-drivers/gps_umd.git
+   51  nano measurement.sh
+   52  cd Openkin/OpenKinProject/
+   53  git status
+   54  git add Ubuntu\ Xenial\ 1/Img/catkin_make\ and\ source\ devel.png 
+   55  git commit -m "Add cat_kin make image"
+   56  git push
+   57  git status
+   58  shutdown -h now
+   59  ls
+   60  pwd
+   61  cd catkin_ws/
+   62  nano INS_test1.txt 
+   63  rostopic list 
+   64  rostopic echo /vectornav/IMU /
+   65  rostopic echo /vectornav/IMU 
+   66  rostopic echo /vectornav/GPS 
+   67  rostopic echo /vectornav/Temp 
+   68  rostopic echo /vectornav/INS 
+   69  pwd
+   70  ls
+   71  touch text.txt
+   72  ls
+   73  rostopic echo /vectornav/IMU >> text.txt
+   74  nano text.txt
+   75  rostopic echo /vectornav/IMU > text.txt
+   76  nano text.txt
+   77  rostopic echo /vectornav/IMU > text.txt
+   78  nano text.txt
+   79  touch INS_test.txt
+   80  rostopic echo /vectornav/INS >> INS_test.txt
+   81  touch INS_test.txt 
+   82  nano INS_test.txt 
+   83  touc INS_test1.txt 
+   84  touch INS_test1.txt 
+   85  rostopic echo /vectornav/INS >> INS_test1.txt
+   86  nano INS_test1.txt 
+   87  touch INS_test2.txt
+   88  rostopic echo /vectornav/INS >> INS_test2.txt
+   89  nano INS_test2.txt 
+   90  ld
+   91  ls
+   92  cd catkin_ws/
+   93  ls
+   94  rostopic 
+   95  rostopic list 
+   96  touch IMU_test1.txt
+   97  rostopic echo /vectornav/IMU >> IMU_test1.txt
+   98  nano IMU_test1.txt 
+   99  cd Openkin/OpenKinProject/
+  100  ls
+  101  git status
+  102  git add Ubuntu\ Xenial\ 1/
+  103  git status
+  104  git add *
+  105  git commit -m "First date test of data and image of building package"
+  106  git push
+  107  git config --global push.default matching
+  108  git status
+  109  git add .
+  110  git commit -m "Add kiling rosmaster info and measure temp long time after"
+  111  git push
+  112  ssh-keeygen -t ed25519 -C "giahuy050201@gmail.com"
+  113  ssh-keygen -t ed25519 -C "giahuy050201@gmail.com"
+  114  cd 
+  115  ls -la
+  116  cd .ssh/
+  117  eval "(ssh-agent -s)"
+  118  cd 
+  119  ssh-add ./.ssh/id_ed25519
+  120  cd .ssh/
+  121  sudo apt-get install xclip
+  122  xclip -selection clipboard < ./id_ed25519.pub 
+  123  touch 18_04_command.txt
+  124  rm 18_04_command.txt 
+  125  cd
+  126  touch 18_04_command.txt
+  127  history >> 18_04_command.txt 
