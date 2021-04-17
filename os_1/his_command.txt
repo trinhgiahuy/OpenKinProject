@@ -1,0 +1,195 @@
+This is a command history of os_1
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  sudo fallocate -I 2G /var/swap2
+    4  sudo fallocate -l 2G /var/swap2
+    5  ls
+    6  cd
+    7  ls
+    8  cd ..
+    9  ls
+   10  cd ..
+   11  ls
+   12  cd var/
+   13  ls
+   14  ls -la
+   15  sudo chmod 600 /var/swap2
+   16  sudo swapon ./swap2
+   17  sudo swapon /var/swap2
+   18  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/soures.list.d/ros-latest.list'
+   19  cd 
+   20  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/soures.list.d/ros-latest.list'
+   21  cd /etc/apt/
+   22  ls
+   23  cd sources.list.d/
+   24  ls
+   25  sudo nano ros-latest.list
+   26  ls
+   27  sudo nano ros-latest.list
+   28  ls
+   29  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/soures.list.d/ros-latest.list'
+   30  cd 
+   31  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/soures.list.d/ros-latest.list'
+   32  cd /etc/apt/
+   33  cd sources.list.d/
+   34  ls
+   35  sudo nano ros-latest.list 
+   36  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/soures.list.d/ros-latest.list'
+   37  sudo mkdir ros-latest.list
+   38  cat /etc/os-release 
+   39  cd
+   40  cd /
+   41  ls
+   42  cd var/
+   43  ls
+   44  sudo nano swap2
+   45  cd /var/
+   46  ls
+   47  ls -la
+   48  sudo swapon ./swap2
+   49  mkswap ./swap2
+   50  sudo mkswap ./swap2
+   51  sudo swapon ./swap2
+   52  cd
+   53  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/soures.list.d/ros-latest.list'
+   54  sudo shutdown -h now
+   55  sudo nano /etc/apt/sources.list.d/ros-latest.list 
+   56  sudo apt update
+   57  sudo nano /etc/apt/sources.list.d/ros-latest.list 
+   58  sudo apt update
+   59  sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+   60  sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 0xB01FA116
+   61  sudo apt-update
+   62  sudo apt-get update
+   63  sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+   64  sudo apt-get update
+   65  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/soures.list.d/ros-latest.li[A
+   66  :wq
+   67  q
+   68  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/soures.list.d/ros-latest.list'
+   69  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" | sudo tee  etc/apt/soures.list.d/ros-latest.list'
+   70  sudo vi /etc/apt/sources.list.d/ros-latest.list
+   71  cd  /etc/apt/sources.list.d/ros-latest.list
+   72  cd  /etc/apt/sources.list.d/
+   73  ls
+   74  sudo nano ros-latest.list 
+   75  sudo nano raspi.list 
+   76  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/soures.list.d/ros-latest.list'
+   77  sudo nano ros-latest.list 
+   78  cd ros_catkin_ws/
+   79  ./src/catkin/bin/catkin_make_isolated --install --install-space /opt/ros/kinetic/ -DCMAKE_BUILD_TYPE=Release
+   80  cd /home/pi/ros_catkin_ws/build_isolated/python_orocos_kdl/ && /opt/ros/kinetic/env.sh make -j4 -14
+   81  cd /home/pi/ros_catkin_ws/build_isolated/python_orocos_kdl/ && /opt/ros/kinetic/env.sh make -j4 -l4
+   82  sudo apt-get update
+   83  sudo reboot
+   84  ./src/catkin/bin/catkin_make_isolated --install --install-space /opt/ros/kinetic/ -DCMAKE_BUILD_TYPE=Release
+   85  cd ros_catkin_ws/
+   86  ./src/catkin/bin/catkin_make_isolated --install --install-space /opt/ros/kinetic/ -DCMAKE_BUILD_TYPE=Release
+   87  cd /home/pi/ros_catkin_ws/build_isolated/python_orocos_kdl/ && /opt/ros/kinetic/env.sh make -j4 -l4
+   88  sudo shutdown -h now
+   89  grep eigen
+   90  dpkg -s libeigen3-dev 
+   91  sudo apt-get install libeigen3
+   92  sudo apt-get install libeigen3-dev
+   93  dpkg -s libeigen3-dev | grep "Version"
+   94  cat /etc/os-release 
+   95  shutdown -h now
+   96  ls
+   97  mkdir OpenKin
+   98  cd OpenKin/
+   99  ls
+  100  git clone git@github.com:trinhgiahuy/OpenKinProject.git
+  101  ls
+  102  cd OpenKinProject/
+  103  ls
+  104  mkdir os_1
+  105  ls
+  106  cd os_1/
+  107  ls
+  108  scp /home/pi/ros_catkin_ws/src/python_orocos_kdl/python_orocos_kdl ./
+  109  scp -r /home/pi/ros_catkin_ws/src/python_orocos_kdl/python_orocos_kdl ./
+  110  git status
+  111  cd ..
+  112  git status
+  113  git add os_1/
+  114  ls
+  115  git status
+  116  git add os_1/
+  117  git add .
+  118  git checkout .
+  119  git status
+  120  cp -r /home/pi/ros_catkin_ws/src/python_orocos_kdl/ ./os_1/ 
+  121  git status
+  122  git add os_1/
+  123  git status
+  124  git commit -m "Add python_orocos_kdl file for first os"
+  125  git config --global user.name "Huy Trinh"
+  126  git config --global user.email "giahuy050201@gmail.com"
+  127  git commit -m "Add python_orocos_kdl file for first os"
+  128  git log --oneline
+  129  git push
+  130  git status
+  131  git add os_2/
+  132  git commit -m "add files in python_orocos_kdl/python_orocos_kdl/PyKDL"
+  133  git push
+  134  git status
+  135  git add os_2/py-py-pybind11/
+  136  git commit -m "Add folders in /py/py/pybin11"
+  137  git push
+  138  git status
+  139  git add os_2/*
+  140  git checkout .
+  141  git status
+  142  git reset HEAD~1
+  143  git status
+  144  git add os_2/py-py-cmake/
+  145  git commit -m "Add files in py/py/cmake"
+  146  git add os_2/py-py-test/
+  147  git commit -m "Add files in py/py/test"
+  148  cd os_2
+  149  cd py-py-pybind11/
+  150  git status
+  151  cd ..
+  152  git status
+  153  git add py-py-pybind11/
+  154  git commit -m "ADd files in py/py/pybind11"
+  155  git push
+  156  git pull
+  157  git push
+  158  git status
+  159  git add py-py-PyKDL/
+  160  git commit -m "Add files in py/py/PyKDL"
+  161  git push
+  162  git status
+  163  git rm PyKDL.*
+  164  git status
+  165  git rm dynamics.cpp 
+  166  git rm frames.cpp 
+  167  git rm framevel.cpp 
+  168  git status
+  169  git commit -m "Remove old files and add into py/py/PyKDL"
+  170  git push
+  171  git rm kinfam.cpp 
+  172  git status
+  173  git commit -m "Updated repo" && git push
+  174  git status 
+  175  cd ..
+  176  git status
+  177  git rm os_1/
+  178  git rm -r os_1/
+  179  git status
+  180  git commit -m "Remove fail os_1"
+  181  git status
+  182  git add -a
+  183  git add *
+  184  git status
+  185  git rm *
+  186  git rm -r os_2/
+  187  git status
+  188  git commit -m "Rename back to os_1"
+  189  git push
+  190  history 
+  191  cd 
+  192  cd OpenKin/OpenKinProject/os_1/
+  193  nano his_command.txt
+  194  history >> his_command.txt 
