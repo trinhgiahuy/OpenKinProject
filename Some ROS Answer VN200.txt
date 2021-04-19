@@ -1,3 +1,10 @@
+Catkin install for kinetic/Installation/Ubuntu
+https://wiki.ros.org/catkin#Installing_catkin
+
+Connect Vn to rviz
+https://answers.ros.org/question/358182/how-to-connect-vectornav-vn-200-to-rviz/
+
+
 
 [vn200.launch] is neither a launch file in package
 https://answers.ros.org/question/243177/vn200launch-is-neither-a-launch-file-in-package/
@@ -25,6 +32,19 @@ https://answers.ros.org/question/172879/kill-other-roscoremaster-processes-on-bo
 
 clock skew was detected warning [closed]
 https://answers.ros.org/question/244124/clock-skew-was-detected-warning/
+https://github.com/linux-sunxi/linux-sunxi/issues/62
 Clock Skew detect explanation
 https://stackoverflow.com/questions/3824500/compiling-c-on-remote-linux-machine-clock-skew-detected-warning
 
+
+Searching issue in github
+https://docs.github.com/en/github/searching-for-information-on-github/searching-issues-and-pull-requests
+
+GPS not pusblishing in VN-100. (since 
+The VN100 is an AHRS without GNSS functionality, so you will have a hard time to get any GPS or Odom topics. 
+The VN100 ist just Acceleration and Gyro. No position
+https://github.com/dawonn/vectornav/issues/26
+
+
+can't roslaunch vectornav vectornav.launch #45
+https://github.com/dawonn/vectornav/issues/45
